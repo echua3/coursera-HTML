@@ -5,12 +5,12 @@
 h1 {
   margin-bottom: 15px;
   text-align: center;
+  font-family: Helvetica;
 }
 
 section {
   border: 1px solid black;
   background-color: #d5edf2;
-  width: 90%;
   height: 150px;
   margin-right: auto;
   margin-left: auto;
